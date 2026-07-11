@@ -9,7 +9,6 @@
 > **Prepared by:** Research Affairs  
 > **Audience:** IT Dept  
 > **Classification:** Confidential — Internal Use Only  
-> **Companion System:** Conference Registration System (CRS) PRD v2.0 — JPRS is designed as a sibling system, sharing the same platform architecture, role model, and approval philosophy.
 
 ---
 
