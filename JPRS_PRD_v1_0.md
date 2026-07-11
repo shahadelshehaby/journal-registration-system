@@ -3,12 +3,12 @@
 
 ---
 
-> **Document Status:** Draft — For Review
-> **Version:** 1.0
-> **Date:** July 2026
-> **Prepared by:** Research Affairs
-> **Audience:** IT Dept
-> **Classification:** Confidential — Internal Use Only
+> **Document Status:** Draft — For Review  
+> **Version:** 1.0  
+> **Date:** July 2026  
+> **Prepared by:** Research Affairs  
+> **Audience:** IT Dept  
+> **Classification:** Confidential — Internal Use Only  
 > **Companion System:** Conference Registration System (CRS) PRD v2.0 — JPRS is designed as a sibling system, sharing the same platform architecture, role model, and approval philosophy.
 
 ---
