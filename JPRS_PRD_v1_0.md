@@ -1,4 +1,4 @@
-# 🎓 University of Dubai — Journal Papers Registration System (JPRS)
+# 🎓 University of Dubai — Open-Access Journal Papers Registration System (JPRS)
 ## Product Requirements Document · v1.0
 
 ---
